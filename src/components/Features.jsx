@@ -16,19 +16,19 @@ const Features = () => {
       icon: <Mic className="h-6 w-6" />,
       title: "Transcrição Automática de Áudio",
       description:
-        "Orbi entra nos seus canais de voz, ouve a conversa e transcreve tudo em tempo real com alta precisão.",
+        "Com o comando /texto e selecionando o idioma, o Orbi entra nos seus canais de voz, ouve a conversa e transcreve tudo em tempo real com alta precisão.",
     },
     {
       icon: <FileText className="h-6 w-6" />,
       title: "Geração Inteligente de Documentos",
       description:
-        "Transforme transcrições em atas de reunião, resumos executivos, listas de tarefas e outros formatos úteis.",
+        "Com o comando /doc, você transforma as transcrições em atas de reunião, resumos executivos, listas de tarefas e outros formatos úteis.",
     },
     {
       icon: <Zap className="h-6 w-6" />,
       title: "Identificação de Falantes",
       description:
-        "Saiba quem disse o quê. Orbi identifica os participantes da conversa na transcrição (disponível nos planos pagos).",
+        "Saiba quem disse o quê. Orbi identifica os participantes da conversa na transcrição (disponível nos planos pagos) e gera áudios separados para cada participante da reunião.",
     },
     {
       icon: <Clock className="h-6 w-6" />,
